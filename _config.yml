@@ -1,3 +1,14 @@
 theme: jekyll-theme-minimal
 title: Kimtangledmind
 description: Kimtangledmind Homepage
+# Site settings
+#email: your-email@domain.com
+
+baseurl: "/ktm-start" # the subpath of your site, e.g. /blog/
+url: "https://kimtangledmind.github.io/kimtangledmind/" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  kimtangledmind
+
+# Build settings
+#markdown: kramdown
+#permalink: /:year/:title:output_ext
