@@ -4,7 +4,7 @@ description: Kimtangledmind Homepage
 # Site settings
 #email: your-email@domain.com
 
-baseurl: "/ktm-start" # the subpath of your site, e.g. /blog/
+baseurl: "ktm-start" # the subpath of your site, e.g. /blog/
 url: "https://kimtangledmind.github.io/kimtangledmind" # the base hostname & protocol for your site
 redirect_to: "https://kimtangledmind.github.io/kimtangledmind/ktm-start
 #twitter_username: jekyllrb
