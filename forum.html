@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Forum – Mein Name</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="menue">
+    <a class="name" href="index.html">Mein Name</a>
+    <nav aria-label="Hauptmenü">
+      <ul>
+        <li><a href="index.html">Über mich</a></li>
+        <li><a href="galerie.html">Galerie</a></li>
+        <li><a href="seminare.html">Seminare</a></li>
+        <li><a href="forum.html" aria-current="page">Forum</a></li>
+        <li><a href="newsletter.html">Newsletter</a></li>
+        <li><a href="kontakt.html">Kontakt</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <h1>Forum</h1>
+    <p>Hier kannst du Fragen stellen, dich mit anderen austauschen und Themen vorschlagen. Das Forum läuft über GitHub Discussions. Zum Mitschreiben brauchst du ein kostenloses GitHub-Konto, zum Lesen nicht.</p>
+
+    <div id="forum-start" class="hinweis">
+      <p><strong>Externer Inhalt.</strong> Wenn du das Forum lädst, werden Daten (z. B. deine IP-Adresse) an GitHub übertragen. Mehr dazu in der <a href="datenschutz.html">Datenschutzerklärung</a>.</p>
+      <button type="button" id="forum-laden" class="knopf">Forum laden</button>
+      <p><a href="https://github.com/kimtangledmind/kimtangledmind.github.io/discussions">Oder direkt auf GitHub öffnen</a></p>
+    </div>
+
+    <div id="forum-inhalt"></div>
+  </main>
+
+  <footer>
+    <span>© 2026 Mein Name</span>
+    <nav aria-label="Rechtliches">
+      <a href="impressum.html">Impressum</a>
+      <a href="datenschutz.html">Datenschutz</a>
+    </nav>
+  </footer>
+  <script src="forum.js"></script>
+</body>
+</html>
