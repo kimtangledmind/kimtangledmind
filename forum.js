@@ -4,7 +4,7 @@ var GISCUS = {
   repo: "kimtangledmind/kimtangledmind.github.io",
   repoId: "R_kgDOVnbgfQ",
   category: "General",
-  categoryId: "R_kgDOVnbgfQ"
+  categoryId: "DIC_kwDOVnbgfc4DLSX1"
 };
 
 document.getElementById("forum-laden").addEventListener("click", function () {
