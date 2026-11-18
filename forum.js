@@ -1,7 +1,7 @@
 // Das Forum (Giscus / GitHub Discussions) wird erst nach Klick geladen.
 // Die Werte unten bekommst du auf https://giscus.app (siehe Anleitung).
 var GISCUS = {
-  repo: "kimtangledmind/kimtangledmind.github.io",
+  repo: "kimtangledmind/kimtangledmind",
   repoId: "R_kgDOVnbgfQ",
   category: "General",
   categoryId: "DIC_kwDOVnbgfc4DLSX1"
